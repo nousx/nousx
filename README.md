@@ -31,7 +31,7 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/nousx" target="_blank" style="margin-right:5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=nousx&show_icons=true&theme=onedark&count_private=true&"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=nousx&show_icons=true&theme=onedark&count_private=true" style="width: 450px !important;"/>
     </a>
     <a href="https://github.com/nousx" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nousx&show_icons=true&theme=onedark&count_private=true&layout=compact&exclude_repo="/>
