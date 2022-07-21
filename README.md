@@ -21,7 +21,7 @@
 
 <div style=";margin-bottom:30px;">
     <a href="https://app.daily.dev/spectrum" target="_blank">
-        <img src="https://api.daily.dev/devcards/09173f307f834ed78badcccc9927bd77.png?r=ppi" width="256" alt="SpecTruM's Dev Card"/>
+        <img src="https://api.daily.dev/devcards/09173f307f834ed78badcccc9927bd77.png?r=k39" width="256" alt="SpecTruM's Dev Card"/>
     </a>
 </div>
 
