@@ -2,11 +2,11 @@
 
 
 <div style="margin-top:30px;margin-bottom:30px;display: flex;flex-direction: row;flex-wrap: nowrap;justify-content: space-between;">
-    <div>
+    <!-- <div>
         <a href="https://app.daily.dev/spectrum" target="_blank">
             <img src="https://api.daily.dev/devcards/09173f307f834ed78badcccc9927bd77.png?r=ppi" width="256" alt="SpecTruM's Dev Card"/>
         </a>
-    </div>
+    </div> -->
     <div>
         <p>
             Hi, I'm SpecTruM</br>
@@ -15,6 +15,14 @@
             <span style="margin-left:30px;">↠ Loves a freshly brewed cup of coffee</span></br>
         </p>
     </div>
+</div>
+
+## 📌 Badge list
+
+<div style=";margin-bottom:30px;">
+    <a href="https://app.daily.dev/spectrum" target="_blank">
+        <img src="https://api.daily.dev/devcards/09173f307f834ed78badcccc9927bd77.png?r=ppi" width="256" alt="SpecTruM's Dev Card"/>
+    </a>
 </div>
 
 ## 📊 Github stats
