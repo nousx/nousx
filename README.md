@@ -10,8 +10,7 @@
     <div>
         <p>
             Hi, I'm SpecTruM</br>
-            <span style="margin-left:30px;">↠ Chief Technology Officer at <a href="https://soshouse.co.th" target="_blank">SOS Software House Co., Ltd.</a></span></br>
-            <span style="margin-left:30px;">↠ Senior Full-stack Developer at <a href="https://soshouse.co.th" target="_blank">SOS Software House Co., Ltd.</a></span></br>
+            <span style="margin-left:30px;">↠ Senior Full-stack Developer</span></br>
             <span style="margin-left:30px;">↠ Loves a freshly brewed cup of coffee</span></br>
         </p>
     </div>
